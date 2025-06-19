@@ -4,10 +4,10 @@
 <img src="https://komarev.com/ghpvc/?username=EluvK"  />
 </p>
 
-- 🔭 A Back-end developer
-- 💕 Love and enjoy coding
-- 😆 C++ is great, but Rust is better.
-- 📃 This is my blog 👉[here](https://eluvk.github.io).
+- 💻 Backend dev by day | ⚡Full-stack explorer by night
+- 💕 Building things is my happy place
+- 🦀 C++ → Rust convert (with no money and no regrets)
+- 📖 Blog? [404 Content Not Found](https://eluvk.github.io).
 
 ---
 
