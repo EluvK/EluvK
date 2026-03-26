@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/EluvK/EluvK/main/profile-summary-card-output/graywhite/4-productive-time.svg)
+```
+
+    
